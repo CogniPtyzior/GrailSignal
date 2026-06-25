@@ -1,0 +1,7 @@
+/vendor
+/.vscode
+.env
+.env.*
+
+# Grail Signal generated files
+/Storage/ContactFinder/

@@ -1,0 +1,25 @@
+{
+  "name": "grail-signal/contact-finder-demo",
+  "description": "Grail Signal public contact-finder demo",
+  "license": "Apache-2.0",
+  "type": "project",
+  "require": {
+    "php": "^8.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "GrailSignal\\ContactFinder\\": "ContactFinder/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": ">=12.5 <13.0"
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "GrailSignal\\ContactFinder\\Tests\\": "ContactFinder/Tests/"
+    }
+  },
+  "scripts": {
+    "test": "phpunit"
+  }
+}

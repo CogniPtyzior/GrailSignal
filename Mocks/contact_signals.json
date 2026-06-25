@@ -1,0 +1,75 @@
+{
+  "Grail Signal Demo 001 SARL": {
+    "business_registry":   { "name": "Contact Demo 001", "role": "Owner", "source_url": "mock://business-registry/gsf-001" },
+    "business_directory":    { "name": "Contact Demo 001", "phone": "+33 1 99 00 01 01", "source_url": "mock://business-directory/gsf-001" },
+    "contact_signal": { "email": "contact.demo001@gsf-001.example", "phone": null, "provider_confidence": 84, "source_url": "mock://contact-signal/gsf-001" }
+  },
+  "Grail Signal Demo 002 SAS": {
+    "business_registry":   { "name": "Contact Demo 002", "role": "Owner", "source_url": "mock://business-registry/gsf-002" },
+    "contact_signal": { "email": "billing@gsf-002.example", "phone": "+33 4 65 71 02 02", "provider_confidence": 78, "source_url": "mock://contact-signal/gsf-002" }
+  },
+  "Grail Signal Demo 003 EURL": {
+    "business_directory":    { "name": null, "phone": "+33 4 65 71 03 03", "source_url": "mock://business-directory/gsf-003" },
+    "contact_signal": { "email": "contact@gsf-003.example", "phone": "+33 4 65 71 03 03", "provider_confidence": 66, "source_url": "mock://contact-signal/gsf-003" }
+  },
+  "Grail Signal Demo 004 SARL": {
+    "contact_signal": { "email": "contact.demo004@gmail.com", "phone": null, "provider_confidence": 41, "source_url": "mock://contact-signal/gsf-004" }
+  },
+  "Grail Signal Demo 005 SELARL": {
+    "business_directory":    { "name": "Contact Demo 005", "phone": "+33 2 61 91 05 05", "source_url": "mock://business-directory/gsf-005" }
+  },
+  "Grail Signal Demo 006 SAS": {
+    "business_registry":   { "name": "Contact Demo 006", "role": "Registered Agent", "source_url": "mock://business-registry/gsf-006" }
+  },
+  "Grail Signal Demo 007 SARL": {
+    "business_registry":   { "name": "Contact Demo 007", "role": "President", "source_url": "mock://business-registry/gsf-007" },
+    "business_directory":    { "name": "Contact Demo 007", "phone": "+33 4 65 71 07 07", "source_url": "mock://business-directory/gsf-007" },
+    "contact_signal": { "email": "contact.demo007@gsf-007.example", "phone": "+33 4 65 71 07 07", "provider_confidence": 88, "source_url": "mock://contact-signal/gsf-007" }
+  },
+  "Grail Signal Demo 008 EURL": {
+    "business_registry":   { "name": "Contact Demo 008", "role": "Owner", "source_url": "mock://business-registry/gsf-008" },
+    "business_directory":    { "name": "C. Demo 008", "phone": "+33 2 61 91 08 08", "source_url": "mock://business-directory/gsf-008" }
+  },
+  "Grail Signal Demo 009 SAS": {
+    "contact_signal": { "email": "contact.demo009@protonmail.com", "phone": null, "provider_confidence": 38, "source_url": "mock://contact-signal/gsf-009" }
+  },
+  "Grail Signal Demo 010 SARL": {
+    "business_registry":   { "name": "Contact Demo 010", "role": "Owner", "source_url": "mock://business-registry/gsf-010" },
+    "contact_signal": { "email": "accounting@gsf-010.example", "phone": "+33 3 53 01 10 10", "provider_confidence": 76, "source_url": "mock://contact-signal/gsf-010" }
+  },
+  "Grail Signal Demo 011 SAS": {
+    "business_directory":    { "name": "Contact Demo 011", "phone": "+33 5 36 49 11 11", "source_url": "mock://business-directory/gsf-011" },
+    "contact_signal": { "email": "contact.demo011@gsf-011.example", "phone": null, "provider_confidence": 58, "source_url": "mock://contact-signal/gsf-011" }
+  },
+  "Grail Signal Demo 012 SARL": {
+    "business_registry":   { "name": "Contact Demo 012", "role": "Owner", "source_url": "mock://business-registry/gsf-012" },
+    "business_directory":    { "name": "C. Demo 012", "phone": "+33 4 65 71 12 12", "source_url": "mock://business-directory/gsf-012" },
+    "contact_signal": { "email": "contact.demo012@gsf-012.example", "phone": "+33 4 65 71 12 12", "provider_confidence": 81, "source_url": "mock://contact-signal/gsf-012" }
+  },
+  "Grail Signal Demo 013 EURL": {
+    "business_registry":   { "name": "Contact Demo 013A", "role": "Manager", "source_url": "mock://business-registry/gsf-013" },
+    "business_directory":    { "name": "Contact Demo 013B", "phone": "+33 4 65 71 13 13", "source_url": "mock://business-directory/gsf-013" }
+  },
+  "Grail Signal Demo 015 SARL": {
+    "contact_signal": { "email": "ap@gsf-015.example", "phone": "+33 2 61 91 15 15", "provider_confidence": 63, "source_url": "mock://contact-signal/gsf-015" }
+  },
+  "Grail Signal Demo 017 SELARL": {
+    "business_registry":   { "name": "Contact Demo 017", "role": "Owner", "source_url": "mock://business-registry/gsf-017" },
+    "business_directory":    { "name": "Contact Demo 017", "phone": "+33 3 53 01 17 17", "source_url": "mock://business-directory/gsf-017" },
+    "contact_signal": { "email": "contact.demo017@gsf-017.example", "phone": null, "provider_confidence": 86, "source_url": "mock://contact-signal/gsf-017" }
+  },
+  "Grail Signal Demo 023 SARL": {
+    "business_directory":    { "name": null, "phone": "+33 3 53 01 23 23", "source_url": "mock://business-directory/gsf-023" }
+  },
+  "Grail Signal Demo 025 EURL": {
+    "business_registry":   { "name": "Contact Demo 025", "role": "Owner", "source_url": "mock://business-registry/gsf-025" },
+    "contact_signal": { "email": "contact.demo025@gsf-025.example", "phone": "+33 2 61 91 25 25", "provider_confidence": 76, "source_url": "mock://contact-signal/gsf-025" }
+  },
+  "Grail Signal Demo 027 SAS": {
+    "contact_signal": { "email": "info@gsf-027.example", "phone": null, "provider_confidence": 44, "source_url": "mock://contact-signal/gsf-027" }
+  }
+}
+
+
+
+
